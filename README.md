@@ -1,1 +1,1 @@
-This a repository about Machine Learning knowledge that I have collected.
+This is a repository about Machine Learning knowledge that I have collected.
